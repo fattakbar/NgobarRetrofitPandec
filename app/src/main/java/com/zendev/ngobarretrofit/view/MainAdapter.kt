@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
 import com.zendev.ngobarretrofit.R
+import com.zendev.ngobarretrofit.model.Team
 
 class MainAdapter(private val teams: List<Team>, private val listener: (Team) -> Unit) :
     RecyclerView.Adapter<TeamViewHolder>() {

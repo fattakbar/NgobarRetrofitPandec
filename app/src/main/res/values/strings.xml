@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NgobarRetrofit</string>
+    <string name="team_name_description">Team Name Description</string>
+    <string name="team_image_description">Team Image Description</string>
+</resources>
